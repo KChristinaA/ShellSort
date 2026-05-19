@@ -1,4 +1,4 @@
-package ru.itis.aisd501.sort.avl_tree;
+package ru.itis.aisd501.trees.avl_tree;
 
 public class AVLTree {
 
